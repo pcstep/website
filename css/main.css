@@ -10,3 +10,8 @@
 }
 
 .header { top: 0; }
+
+#header-info a {
+  display: inline-block;
+  line-height: 47px;
+}
