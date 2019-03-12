@@ -1,11 +1,12 @@
-html {
-  background-color: #EBEBEB;
+.header {
+  background-color: #AA1111;
+  height: 47px;
+  font-size: 0.938em;
+  line-height: 47px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  right: 0;
 }
 
-body {
-  color: #FFF;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
-  margin: 0;
-}
+.header { top: 0; }
